@@ -17,4 +17,4 @@ git restore
 comparing githib. gitlab and bitbucket
 
 # https://www.hostinger.com/tutorials/ssh-tutorial-how-does-ssh-work
-Knowlodge on ssh  
+Knowlodge on ssh    
